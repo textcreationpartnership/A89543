@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to a lawless pamphlet entituled, The petition and articles exhibited in Parliament against Doctor Haywood, late chaplain to the Bishop of Canterbury. By R.M.</title>
+            <author>R. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89543</idno>
+            <idno type="STC">Wing M69</idno>
+            <idno type="STC">Thomason E172_27</idno>
+            <idno type="STC">ESTC R13527</idno>
+            <idno type="EEBO-CITATION">99859490</idno>
+            <idno type="PROQUEST">99859490</idno>
+            <idno type="VID">111575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111575)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to a lawless pamphlet entituled, The petition and articles exhibited in Parliament against Doctor Haywood, late chaplain to the Bishop of Canterbury. By R.M.</title>
+                  <author>R. M.</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. N. for Henry Seile, at the Tygres head in Fleetstreet, over against Saint Dunstans Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A response to: The petition and articles exhibited in Parliament against Doctor Haywood, late chaplain to the Bishop of Canterbury.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Haywood, William, 1599 or 1600-1663 --  Early works to 1800.</term>
+               <term>Petition and articles exhibited in Parliament against Doctor Haywood, late chaplain to the Bishop of Canterbury.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111575:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO A Lawleſs Pamphlet entituled, The Petition and Articles exhibited in <hi>Parliament</hi> againſt <hi>Doctor Haywood,</hi> late Chaplain to the Biſhop of CAN<g ref="char:EOLhyphen"/>TERBURY.</p>
+            <p>By <hi>R. M.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>I.N.</hi> for <hi>Henry Seile,</hi> at the Tygres head in Fleetſtreet, over againſt Saint <hi>Dunſtans</hi> Church, 1641.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:111575:2"/>
+            <pb n="1" facs="tcp:111575:2"/>
+            <head>To the honorable, the Knights, Citizens, and Burgeſſes of the Commons Houſe in Parlia<g ref="char:EOLhyphen"/>ment, &amp;c.</head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat wee live under the paſtorall Charge of one <hi>William Haywood</hi> Doctor of Divinity, who hath lately publiſhed, in ſundry Sermons by him preached in his Pariſh Church, moſt damnable and erronious Doctrines full of groſſe Popiſh tenents. And whilſt he was Houſe Chaplaine to the Archbi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterburie,</hi> did licence a Book, intituled, <hi>An Intro<g ref="char:EOLhyphen"/>duction to a devout Life,</hi> containing the like Popiſh Do<g ref="char:EOLhyphen"/>ctrines, <hi>&amp;c.</hi>
+            </p>
+            <p>Whoſe practice in Church Diſcipline is ſuperstitious and idolatrous; manifeſted by ſtrange antike geſtures of cringings and bowings, <hi>&amp;c.</hi>
+            </p>
+            <p>In whoſe Pariſh Church aforeſaid, are ſet up Crucifixes, and divers Images of Saints, and likewiſe Organs, with o<g ref="char:EOLhyphen"/>ther confuſed Muſique hindring Devotion, <hi>&amp;c.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="affirmations">
+               <body>
+                  <div n="1" type="affirmation">
+                     <pb n="2" facs="tcp:111575:3"/>
+                     <head>I</head>
+                     <p n="1">
+                        <hi>1</hi> HEE affirmed that a Miniſter hath power to re<g ref="char:EOLhyphen"/>mit and retaine ſinnes, and not declaratively, or Miniſterially onely, as (he ſaid) ſome would have it, but actually and abſolutely, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+                  <div n="2" type="affirmation">
+                     <head>II</head>
+                     <p n="2">
+                        <hi>2</hi> He affirmed that every man in his natural condition is by the fall of <hi>Adam</hi> wounded only, and but halfe dead, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="affirmation">
+                     <head>III</head>
+                     <p n="3">
+                        <hi>3</hi> He affirmed that the Virgin <hi>Mary</hi> was free from, and without any mortall ſins, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+                  <div n="4" type="affirmation">
+                     <head>IV</head>
+                     <p n="4">
+                        <hi>4</hi> He affirmed that Confeſſion to the Prieſt, of our parti<g ref="char:EOLhyphen"/>cular ſins, is very neceſſary to the forgiveneſſe of ſinne, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Particular Erroneous, popiſh Doctrines, conteined in a booke Intituled, <hi>An Introduction to a devout life, &amp;c.</hi>
+            </p>
+            <p>The ſaid Church is divided into three parts<g ref="char:punc">▪</g> the <hi>Sanctum Sanctorum</hi> being one of them, is ſeperated from the chancell by a large Screene in the figure of a beautifull gate, <hi>&amp;c.</hi>
+            </p>
+            <p>Seven or eight foot within this holy place is a raiſing by three ſteps, and from thence a long Raile from one wall to the other, into which place none muſt enter but the Prieſts and the ſubdeacons, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:111575:3"/>
+This deske is overlaid with a covering of purple <g ref="char:V">Ʋ</g>eivet, which hath a great gold and ſilke fringe round about, and on this Deske is placed two great Bookes wrought with needle worke, in which are made the pictures of Chriſt and the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> with Chriſt in her armes, <hi>&amp;c,</hi>
+            </p>
+            <p>For the preparation of this duty, the ſaid Doctor and three Sub-deacons doe all goe from the body of the ſaid Church, <hi>&amp;c.</hi>
+            </p>
+            <p>Then they all advance to the beautifull Gate, where they ſtand; Then every one bowing to he ground three ſeverall times as they goe; They enter into the <hi>Sanctum Sanctorum,</hi> in which place they read their ſecond Service, <hi>&amp;c.</hi>
+            </p>
+            <p>It was proved, that when that Popiſh Book was printing, the Printer ſeeing ſuch groſſe popery in it, commanded his Work<g ref="char:EOLhyphen"/>man to ſtay his hand, till he ſpoke with the Licencer: ſo hee tooke his Corrector of his worke, (being a maſter of arts) with him, and ſhewed the Doctor divers popiſh paſſages in the Booke, ſaying he durſt not print it, <hi>&amp;c.</hi>
+            </p>
+            <p>The printer was troubled, and put into the Purſivants hands, threatned with Star-chamber, except hee would deli<g ref="char:EOLhyphen"/>ver up the originall Coppy by which he printed it, which he re<g ref="char:EOLhyphen"/>fuſed to doe, for that it is ever their cuſtome to keep originalls by them for their own ſafeguards, <hi>&amp;c.</hi>
+            </p>
+            <p>But at length hee by promiſes and threats was conſtrai<g ref="char:EOLhyphen"/>ned to deliver up the coppy wherein the Licence was, <hi>&amp;c.</hi>
+            </p>
+            <p>At the hearing of the buſineſſe before the committee, the Doctour was asked in what places it was altered from that he licenced. Hee anſwered in page <hi>691.</hi> Articie <hi>4.</hi> hee al<g ref="char:EOLhyphen"/>lowed it to be read<g ref="char:punc">▪</g> 
+               <hi>Call to mind the Saints of Heaven, &amp;c.</hi> and the printer had left out the word <hi>mind. &amp;c.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:111575:4"/>
+It was proved that a Pariſhioner of his being ſeduced to Popery, the Doctor was intreated to admoniſh and reclaime her: and though he had beene ſolicited three or four ſever all times, yet hee refuſed, <hi>&amp;c.</hi>
+            </p>
+            <p>Another woman being perverted, her husband got her to go to the Doctor, hoping by his counſell and reaſons to have re<g ref="char:EOLhyphen"/>claimed her: inſtead whereof he confirmed, her, in ſaying, that Salvation might be had in the Church of <hi>Rome, &amp;c,</hi>
+            </p>
+            <p>He hath cauſed the <hi>Proteſtation</hi> to bee read and taken in that ridiculous, abſurd, and disdainfull manner, <hi>&amp;c.</hi>
+            </p>
+            <p>What was already heard, appeared ſufficient cauſe for his removall, which this Honourable aſſembly without all que<g ref="char:EOLhyphen"/>ſtion will doe, <hi>&amp;c.</hi>
+            </p>
+            <p>His Altar ſtands dect continually, weeke days and all, and me wed up within the Screene and Rayles as before, ſome of the pariſhioners deſiring to receive the Sacrament in their Pewes, were denyed it, and ſent away without it, and hee for<g ref="char:EOLhyphen"/>ceth all to come up to the Railes ſtill as before. In divers of his Sermons ſince the hearing of his buſineſſe, he hath with much bitternes inveighed againſt the petitioners, and at thoſe that goe from their owne pariſh Church, although he hath ſo weak a voice that hee cannot be heard by the one halfe of theſe that come to Church.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="introduction">
+            <pb n="5" facs="tcp:111575:4"/>
+            <p>
+               <seg rend="decorInit">H</seg>Apning lately upon a printed Pam<g ref="char:EOLhyphen"/>phlet entitled, <hi>The Petition and Ar<g ref="char:EOLhyphen"/>ticles exhibited in Parliament againſt Doctor</hi> Haywood, &amp;c. and finding many apparent untruths in it, I thought it a deed of charity to vindicate the man, leſt hee ſhould ſuffer in the opinion of them that know him not, and leſt thoſe that are wel-affected to him in his Pariſh ſhould be too much ſcandalized by the boldnes of ſome few malicious ones, whoſe blinde zeale I much pity. Knowing therefore the Doctor imploy'd in continuall preaching, and ha<g ref="char:EOLhyphen"/>ving little leiſure to anſwer for himſelfe, I have endeavoured to give an anſwer to ſome particulars, ſuch as are notoriouſly falſe or ſcandalous, and deſire the indiffe<g ref="char:EOLhyphen"/>rent Reader by that little here replyed, which will be found undoubtedly true, to judge of the reſt of their accuſations againſt the Doctor.</p>
+            <p>Firſt, whereas they call it a <hi>Petition exhi<g ref="char:EOLhyphen"/>bited by the Pariſhioners of Saint</hi> Giles <hi>in the fields,</hi> it were to be wiſhed they would tell
+<pb n="6" facs="tcp:111575:5"/>us, who they are and how many of them. For as the world reports, the Petition was at firſt ſet on foot by two or three illiterate Tradeſ-men in the Do<g ref="char:EOLhyphen"/>ctors abſence having beene fourteene weeks ſicke, and then ſcant recovered waiting at Court. And whereas in all rea<g ref="char:EOLhyphen"/>ſon &amp; conſcience they ought firſt to have repaired to him (taking offence at ceremo<g ref="char:EOLhyphen"/>niall matters) to have tryed whether hee would have yeelded to alter any thing or no, they were ſo far from it, that they labourd under hand to procure as many hands as they could againſt him, &amp; though they attempted all of al ſorts many days to<g ref="char:EOLhyphen"/>gether, yet they could draw none of any quality, not a Nobleman, not a Gentleman, not a Veſtryman, not a Citizen of any bet<g ref="char:EOLhyphen"/>ter breeding, but a few ſuch as themſelves illiterate and ignorant, many of them not able to write their names, and ſcant any of them uſing to come to Church. And of thoſe they could not make up 100. taking ſo great advantage of the Doctors long ab<g ref="char:EOLhyphen"/>ſence,
+<pb n="7" facs="tcp:111575:5"/>and ſoliciting al perſons againſt him, whereas the pariſh conſiſteth of above 5000. Communicants, numbers whereof are Noblemen, Knights, Gentlemen, and worſhipfull Citizens, as greatly interes<g ref="char:EOLhyphen"/>ted in the affairs of the Church, &amp; as much ingaged in conſcience to complain, if they thought the pariſh not well ſerved, as a<g ref="char:EOLhyphen"/>ny of the Petitio<g ref="char:EOLhyphen"/>ners, if not more.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:111575:6"/>
+            <pb n="9" facs="tcp:111575:6"/>
+            <head>The Petition it ſelfe. <hi>To the Honourable</hi> Knights, Citizens <hi>and</hi> Burgeſses. <hi>&amp;c.</hi>
+            </head>
+            <p>TIs worth obſerving in this Peti<g ref="char:EOLhyphen"/>tion, firſt that they touch not the Doctor any way for his life, nor his frequency in prea<g ref="char:EOLhyphen"/>ching, or reſiding amongſt them, none of all which they would have ſpared if they had found any colour to ac<g ref="char:EOLhyphen"/>cuſe.</p>
+            <p>Secondly; where they charge him with popiſh doctrine in his ſermons, tis wel known he hath preached in the Pariſh Church of St. <hi>Giles</hi> within this five yeers ſince hee was firſt Parſon, neer upon 200. Sermons (nei<g ref="char:EOLhyphen"/>ther fails hee any week being in health and not other<g ref="char:EOLhyphen"/>wiſe cald away) among all which Sermons they except but againſt three, two of them preached about two yeers ſince, the third more then a twelve-month ago. And it can hardly bethought if at any other time he had preach<g ref="char:EOLhyphen"/>ed what theſe men could have excepted againſt, they would have failed to have inſerted it.</p>
+            <p>
+               <pb n="10" facs="tcp:111575:7"/>
+But for the Sermons, to ſatiſfie the world, the Doctor hath the<g ref="char:cmbAbbrStroke">̄</g> word for word as they were delivered writte<g ref="char:cmbAbbrStroke">̄</g>, and heere willing to promiſe for him, ſith they are thus publikely traduced, they ſhall God willing, as ſoon as may be, bee publikely ſet forth for every mans reading, and he takes God to witneſſe that hee will not alter, nor adde, nor diminiſh, a word from the coppie by which he preached them.</p>
+            <div type="part">
+               <head>The particulars of the Sermons.</head>
+               <p>In the meane time the better to cleer theſe accuſations, hee hath given me certain paſſages of the Sermons com<g ref="char:EOLhyphen"/>plained of, to ſet downe <hi>verbatim</hi> as they were ſpoken, and definitively uttered as his own opinion, which many that heard them will witneſſe to be ſo. And let any man judge by thoſe paſſages, whither it be poſſible for the Doctor ſo far to contradict himſelfe in one and the ſame Sermon, as to ſay what theſe Petitioners would make him.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Out of the Sermon preached</hi> April <hi>21. 1639 upon</hi> Whoſe ſoever ſinns ye remit they are remitted.</head>
+               <p>Yea! What hath man then the authority of impri<g ref="char:EOLhyphen"/>ſoning or releaſing the conſcience? Hath Chriſt put off his power &amp; given it to his Apoſtles? Hath the Father com<g ref="char:EOLhyphen"/>mitted all judgement to him, that he may commit it to them, and ſet them as it were in Gods Throne to pro<g ref="char:EOLhyphen"/>nounce ſentence of life or death upon ſinners as they liſt? No, not ſo. A power though Chriſt hath granted, yet it is not an abſolute power, and independent, but miniſteri<g ref="char:EOLhyphen"/>all onely and ſubſervient. He hath not given over what is proper to himſelfe, but onely honoured men to ſerve under himſelfe, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:111575:7"/>
+               <head>
+                  <hi>Out of the Sermon preached</hi> Iune <hi>7. 1640. upon</hi> Which now of theſe three thinkeſt thou was neigh<g ref="char:EOLhyphen"/>bour to him which fell among theeves? <hi>&amp;c.</hi>
+               </head>
+               <p>Thus miſerably wounded he lies in the way to eter<g ref="char:EOLhyphen"/>nall Perdition, <hi>Adam</hi> and all mankind with him. Halfe dead, becauſe though his body be alive, his ſoule is dead in ſin, and as it were corrupted. Though he have ſome little motion to good, yet hee is utterly unable to fulfill it, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Out of the Sermon preached</hi> Ianuary <hi>20. 638 upon,</hi> Jeſus ſaid unto her, woman what have I to doe with thee?</head>
+               <p>For what concernes the Holy mother of our Lord, I muſt ſpeake freely, I cannot ſee how it can any way ad<g ref="char:EOLhyphen"/>vance the honour of our religion, to caſt dirt on her honour, or to wreſt all places in the Goſpell to the worſt ſenſe that may bee made, onely to ſhew her guilty of ſin, and not much holier then other women. Sure I am, wee may be far from adoring her, far from invocating her and cloathing her with Gods honour, and yet confeſſe her ſpotleſſe and blameleſſe from any fowle ſinfull touch, as preſerved by that holy Spirit that choſe her for his Manſion. By ſinfull touch, I meane not Originall guilt, nor lighter ſlips, but groſe actuall crimes, and therein have St. <hi>Auſtin and many ancients to ſecond me, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Out of the Sermon firſt mentioned preached <hi>Aprill</hi> 21. 1659. upon <hi>VVhoſeſoever ſinns ye remit,</hi> &amp;c.</head>
+               <p>And yet, not as if no ſinner could be forgiven but what the prieſt forgives: Let me not be ſo miſtaken. God is
+<pb n="12" facs="tcp:111575:8"/>mercifull at all howers, and hath not bound up his grace in ſuch fetters. But becauſe in great and weighty ones that wound the conſcience deeply, there he would have our ſoules humbled, not onely before him, but before his Miniſters. Where this may poſſibly be done, and with<g ref="char:EOLhyphen"/>out perill, this would be done; where not, we goe not to limit Gods infinite goodneſſe, he hath other wayes of remitting then we imagine, <hi>&amp;c.</hi>
+               </p>
+               <p>Let any one judge by theſe paſſages which vvere ut<g ref="char:EOLhyphen"/>tered definitively, and not as an others opinion, whether the Doctor could ſo<g ref="char:punc">▪</g> contradict himſelfe as in the ſame ſermons to teach what theſe Petitioners charge him vvith. And let it vvithall be noted, that his Auditory at all the foreſaid Sermons vvas very large, full, and Judicious, not one of which ever told the Doctor of any offence taken at the ſaid Sermons or at a<g ref="char:EOLhyphen"/>ny other preached by him: Neither vvere theſe Petitio<g ref="char:EOLhyphen"/>ners by the Doctor, or any of his friends heard to find fault vvith theſe Sermons, till ſome yeere or tvvo after they vvere preached <hi>viz.</hi> in <hi>December</hi> laſt, after this preſent Parliament had long ſitten.</p>
+            </div>
+            <div type="part">
+               <head>Particular erroneous Doctrines contained in a Book intituled <hi>An Introduction to a Devout Life.</hi>
+               </head>
+               <p>It ſeems theſe Petitioners wanted matter to furniſh up their charge againſt the Doctor, that they have brought in this Book, called in by authority, and burnt five yeers agoe. And by whoſe meanes vvas it called in, but by the Doctors own complaint firſt, finding divers popiſh paſſages, touching invocation of Saints, re-inſerted af<g ref="char:EOLhyphen"/>ter he had daſhed them out. The Book is well known by all that know the latin original to be a very pious work, &amp; excellent well worth the tranſlating, and publiſhing in any language (abating onely ſome uſuall ſuperſtitious paſſages touching invocation of Saints amongſt thoſe kind of people, &amp;c. for it was made by a papiſt) &amp; it had
+<pb n="13" facs="tcp:111575:8"/>been divers times before tranſlated into Engliſh though the Doctor then knew not ſo much. But knowing it in many things a godly treatiſe, and a booke that might doe much good, if well purged, hee beſtowed his paines the more willingly on it; and never miſdoubting the honeſty of the tranſlator that brought it to be licenc'd, one <hi>Chriſtopher Barrows,</hi> as hee called himſelfe, who came recommended to the Doctor by letter from a ſpe<g ref="char:EOLhyphen"/>ciall friend, after the Doctor had kept the booke with him ſome halfe a yeere, and ſtrooke out all paſſages con<g ref="char:EOLhyphen"/>trary to our Religion, hee gave it licence in <hi>November</hi> 1636. being then at <hi>Croydon,</hi> by reaſon of the great ſickneſſe in London, which cauſed the Doctor to allow the larger time for printing, &amp; to deliver it to the Tranſla<g ref="char:EOLhyphen"/>tors hands alone, But this tranſlator played the knave egregiouſly, For hee kept the Book in his hand after it was licenced, &amp; caried it not to the Preſſe till towards the end of <hi>February</hi> following, and in the meane time had opportunity to make what alterations hee pleaſed. And ſo it appeared he did, for when the Book came out in <hi>Aprill</hi> following, diverſe groſſe paſſages of Popery were to be ſeene in it, which the Doctor was ſure hee had cancelled. Whereupon according to his duty, the Doctor preſently certified the Lord Keeper, and the Arch Biſhop, as their Chaplains can witneſſe, how much he thought the Church and himſelfe abuſed. And the booke was preſently called in, and the mattter was brought in queſtion before the Lords of the Councell, Who required the Kings Atturney to ſend for the Au<g ref="char:EOLhyphen"/>thour, and the Printers, and the licencer, and to enquire where the abuſe lay, which he did, and finding the whole fault to have beene in <hi>Barrows</hi> (who fled inſtantly upon the books calling in, and was diſcovered by his Trunk and papers left behind him to be a Romiſh Prieſt) the Kings Atturney accordingly certified the Counſel Bord. Whereupon a Proclamation went forth immediately
+<pb n="14" facs="tcp:111575:9"/>for the apprehending of <hi>Barrows,</hi> and the D. and the Printers were diſmiſſed without farther trouble.</p>
+               <p>No reaſon therefore hath the Doctor to ſtand to any thing in the ſaid corrupted booke, which lay ſo long in the hands of a popiſh Prieſt to alter it how hee pleaſed. For this <hi>Barrows</hi> was afterwards Overſeer of the Preſſe, and when the Booke was Printed, carried halfe the written coppy away with him. And how he might play falſe by inſerting new ſheetes and adding new paſſages who knowes; for the Doctor remembers no particulars now but what were turned over before the Kings Attur<g ref="char:EOLhyphen"/>ney, and his leiſure vvould not ſerve to look on many. One thing the Doctor is ſure of; The petitioners had lit<g ref="char:EOLhyphen"/>tle reaſon to complaine of theo Booke: For it gave them no offence, they never ſaw a coppie of it till they ſought for it about <hi>December</hi> laſt to fill up their charge againſt the Doctor. Nor could they have met with it had they not hapned by chance upon <hi>Okes</hi> that Printed it.</p>
+            </div>
+            <div type="part">
+               <head>Doctor <hi>Haywoods</hi> ſuperſticious and idolatrouſe manner of adminiſtration of the Sacrament, <hi>&amp;c.</hi>
+               </head>
+               <p>Here are many untruthes couched together. The <hi>Sanctum Sanctorum,</hi> and the Subdeacons, and the beauti<g ref="char:EOLhyphen"/>full Gate, are all termes or theſe mens own invention. The Doctor never ſo called them, nor any by his aproba<g ref="char:EOLhyphen"/>tion. The Skreene a faire Ornament of the Church, and great honour to that religious Lady who beſtowed it, vvas aſſigned vvhere to ſtand by the Pariſhioners, nor can it be placed conveniently but vvhere it now is. The Doctor neither perſwaded the making of the Screene, nor contributed a peny towards it, nor knew of what faſhion it would be, nor vvas preſent in the Pariſh, when it vvas ſet up. The Ornaments of the Holy Table, The ſilke curtaines, Carpet, Covering, Books, and
+<pb n="15" facs="tcp:111575:9"/>much plate are all the pious guift of the ſame honoura<g ref="char:EOLhyphen"/>ble lady which beſtowed the Skreene. And being for the decencie of Gods ſervi e, and well accepted of by the Pariſhioners, the Doctor had no reaſon to refuſe them. As for the Crucifix, Organs, and Church-mu<g ref="char:EOLhyphen"/>ſick me tioned in the Petition, they were there long be<g ref="char:EOLhyphen"/>fore Doctor <hi>Haywords</hi> coming. There is no Deske up<g ref="char:EOLhyphen"/>on the Lords Table, onely a little ſtay to hold up the plate, nor any ſuch pictures on the Books as the Petiti<g ref="char:EOLhyphen"/>oner ſpeake of. For the Ceremonies uſed in admini<g ref="char:EOLhyphen"/>ſtring (the ſcornfull deſcription whereof, and his abuſive wit that drew it, the Doctor much pitties) they were none of them invented, nor new brought up by Doctor <hi>Haywood.</hi> His pattern he had from his Majeſties Chap<g ref="char:EOLhyphen"/>pell, not far from that place: Neither did any man ever tell him he was offended with the ſight of theſe few Ce<g ref="char:EOLhyphen"/>remonies. Yet ſince the Petitioners complaint, the Do<g ref="char:EOLhyphen"/>ctor (as I heard) hath laid them downe; And profeſ<g ref="char:EOLhyphen"/>ſes that for matters of Ceremony he will ever be obe<g ref="char:EOLhyphen"/>dient to the lawfull orders of the Church wherein hee lives, nor ever uſe any hereafter, but what authority and generall cuſtome require.</p>
+            </div>
+            <div type="part">
+               <head>Theſe Articles were all proved before the grand Committee, &amp;c.</head>
+               <p>This ſeemes a ſtirewd evidence againſt the Doctor, but if well ſounded makes rather for him. For what doth it prove, but that the Doctor beleeved well of his own induſtry in purging out Popery, and credited his owne judgement, rather then the Printers objections, an argu<g ref="char:EOLhyphen"/>ment that he had beſtowed good paines in peruſing the Booke? But why doth not the Printer tell us what were the Popiſh paſſages that ſo much ſtumbled him? They were ſuch as the Doctor denies to be popiſh. Three of them as hee remembers the Printer told him of. One
+<pb n="16" facs="tcp:111575:10"/>that the Church triumphant praid for the Church mi<g ref="char:EOLhyphen"/>litant, which the Doctor as tis ſaid defended. Another, that we ought to deſire the praiers of the Saints living upon Earth for us. A third, that before God there is no reſpect of Prelate, Prince, or People. Not one of theſe three are objected in the Doctors charge, and I beleeve the petitioners objected all they could find<g ref="char:punc">▪</g> But indeed the Doctor heartily wiſhes, either that the Printer had never come to him, or that hee had ſhewed him ſomewhat truly popiſh, that hee might have had cauſe to ſuſpect <hi>Barrows,</hi> and to ſtop the preſſe. For ſhewing him ſuch ſlight things (which in a tranſlation might well e<g ref="char:EOLhyphen"/>nough be borne with, though, not ſo well perhaps in a new book) the printer loſt the credit of his judgement with the Doctor, and increaſed the Doctors good opi<g ref="char:EOLhyphen"/>nion of <hi>Barrows,</hi> and made <hi>Barrows</hi> thereupon more bold to put in what popery he liſted, while the Printers were the ſlacker to complaine of it.</p>
+               <p>As for the Originall Coppy the Printer reports to have been wreſted from him, the D. wonders what be<g ref="char:EOLhyphen"/>came of the firſt part of it; for before the Kings Atturney there was produced but the latter halfe: The reſt it was ſaid <hi>Barrows</hi> had convei'd away with him. 'Tis well known the Doctor had never ſight of the Originall Coppie after it was firſt delivered to the Preſſe, but onely before the Kings Atturney, while the falſifications were turned to: For the Coppie was laid up in the Star-cham<g ref="char:EOLhyphen"/>ber office where it is yet.</p>
+            </div>
+            <div type="part">
+               <head>At the hearing of the buſineſſe before the Committee.</head>
+               <p>The Doctor ſaid not that the Printer had left out the word Mind, but that <hi>Barrows</hi> had falſified that place and ſtrooke out the word Mind, ſo that the printer could read it no otherwiſe. And this the printers examination
+<pb n="17" facs="tcp:111575:10"/>upon oath confirmed. The Doctor inſtanced in this place, becauſe one of the Printers was ſo impudent, as to ſay before the Committee, there was never a blur, nor any thing canceld in the originall coppie, But it is evident to them that looke on the ſaid Coppie, That where the Tranſlator had firſt made it, according to the Latin, Invo<g ref="char:EOLhyphen"/>cate the Saints of Heaven, the Doctor had ſtrooke out the word Invocate, and put over head Call to mind the Saints <hi>&amp;c.</hi> And <hi>Barrows</hi> had again ſtrooke out the word Mind, and left it Call to the Saints <hi>&amp;c.</hi> which was done queſtionleſſe after the book was licenſed, and done of purpoſe. For what reaſon elſe had <hi>Barrows</hi> to run away? or how ſhould the ſame vvords [call to mind] and the ſame manner of daſhing out be found in ſeverall places in the written coppie as it is?</p>
+               <p>But the D. takes God to witneſſe, he never allowed any exhortation to invocate the Saints in that book nor in any other, Nor any ſuperſtitious paſſage elſe, contrary to our Religion, wittingly. Invocation of Saints is a point the Doctor hath often preached againſt, publikely diſpu<g ref="char:EOLhyphen"/>ted againſt, and ſubſcribed againſt; Nor did he ever in his life favour that Romiſh Error, or abet any that did.</p>
+            </div>
+            <div type="part">
+               <head>At the hearing of the busineſſe before the Committee, <hi>&amp;c.</hi>
+               </head>
+               <p>The D. denies not, but that this whole ſentence taken together may beare an unſavory ſenſe, but it may alſo as properly beare an Orthodox ſenſe. And the Doctor might very well underſtand it in the better ſenſe vvhen he read it, and not conſider the worſe: and according to the La<g ref="char:EOLhyphen"/>tine, it muſt be ſo underſtood, <hi>Recordare ſanctos (quibus ſpecialiter devotus ei) ut te in coeleſti itinere promoveant</hi> Cal to mind the Saints (to whom thou haſt a ſpecial devotion) to help thee in the way to Heaven [call to minde] that needs little defence, for it is in regard of imitating their
+<pb n="18" facs="tcp:111575:11"/>ventues [to whom thou haſt a ſpeciall devotion] that needs not much, There is devotion in calling the Saints to mind, and a ſpecial devotion in calling ſome ſpeciall vertues of ſome Saints to mind, And thiſ calling to mind the vertues and good life of the Saints doth helpe in the way to Heaven. But the Doctor rather believes it might beſome miſtake, for hee had in divers places before tur<g ref="char:EOLhyphen"/>ned [invocate] into [call to minde] and might doe it here, haſtily reading it, and thinking the place ſufficient<g ref="char:EOLhyphen"/>ly purged, without deliberating upon what followed. And yet I Pray who knows whether thoſe words (to whom thou haſt a ſpeciall devotion) were not the hand<g ref="char:EOLhyphen"/>writing of <hi>Barrows,</hi> after the Book was Licenſed?</p>
+               <p>It was proved that a Pariſhioner of his being ſeduced, &amp;c. There is nothing here to be blamed but the Doctors memory, confounded with a multitude of other buſineſſe. Tis notoriouſly falſe, that the Do<g ref="char:EOLhyphen"/>ctor was ſollicited three or foure ſeverall times: For hee never ſaw the Womans husband that reports this, but twice, till he ſaw him at the Committee. The firſt time he met the Doctor going upon earneſt buſineſſe to Weſt<g ref="char:EOLhyphen"/>minſter, and the Doctor tooke his name, and the place where he dwelt, promiſing to come; Yet appointing no certain time, through multitude of other buſineſſe, for<g ref="char:EOLhyphen"/>got it. The man comming againe about a fortnight after, and perceiving his face, and his errand forgotten by the Doctor, went away in a chafe, and came no more.</p>
+               <p>But it is well known, and ready to be proved, that the Doctor hath conferred with divers Recuſants, and con<g ref="char:EOLhyphen"/>verted more families then one, and brought them to Church; Although he hath great reaſon to take heed how hee talks with women, for that other womans ſake mentioned preſently after. For whereas tis delivered, that the Doctor ſhould ſay <hi>Salvation might bee had in the Church of Rome:</hi> It was no ſaying of his, but a que<g ref="char:EOLhyphen"/>ſtion put forth by the woman asking the Doctor whe<g ref="char:EOLhyphen"/>ther he could deny it. To whom the Doctor replyed (as
+<pb n="19" facs="tcp:111575:11"/>diverſe will witneſſe) That what ever might be thought of Papiſts beyond Sea, or of thoſe in for<g ref="char:EOLhyphen"/>mer times who knew no other Religion, yet for ſuch as ſhee was, who lived in wilfull diſobedience to the Church wherein ſhee was baptized, and re<g ref="char:EOLhyphen"/>fuſed to be better informed out of Gods word gra<g ref="char:EOLhyphen"/>ciouſly offered her, there was no hope of ſalvation.</p>
+               <p>But above all things, the Doctor wonders any ſhould except againſt his manner of taking the Pro<g ref="char:EOLhyphen"/>teſtation. What could be more ſolemne? Twas taken on Whitſunday laſt in the afternoon, imme<g ref="char:EOLhyphen"/>diatly after Sermon, before ſo great a congregation as uſually no Sunday in the yeere hath more. It was told the Pariſhioners in the morning publike<g ref="char:EOLhyphen"/>ly that they ſhould take it. The afternoons Preacher ſo ſoon as ever the Pſalm after Sermon was ended, firſt read it in the Pulpit, then took it, ſo did the cu<g ref="char:EOLhyphen"/>rate. Warning being then given to ſtrangers, and women to depart, and the Pariſh gathering about the Doctors Pew, the Doctor himſelfe firſt took the Proteſtation audibly in his own perſon, and give it to others to doe the like. When this was done, there was a place aſsigned, that as many as had taken it ſhould come &amp; ſubſcribe their names in a book, namely, at the Veſtry, on Tueſday fol<g ref="char:EOLhyphen"/>lowing, where the Doctor and the Church-war<g ref="char:EOLhyphen"/>dens ſubſcribed their names, and others of the Pa<g ref="char:EOLhyphen"/>riſh as many as would did the like, both then and on the next Sunday following.</p>
+               <p>All which conſidered, it may bee wondred why any ſhould yet doubt of the Doctors ſound<g ref="char:EOLhyphen"/>neſſe
+<pb n="20" facs="tcp:111575:12"/>in Religion, notwithſtanding theſe mens ob<g ref="char:EOLhyphen"/>jections. For leſt their malice ſhould not ſufficient<g ref="char:EOLhyphen"/>ly appeare in alleaging things colourably true, they have not ſpared to print things manifeſtly falſe, ſuch as theſe, That he hath inveighed againſt the Petitioners in his Sermons, a thing that all his hea<g ref="char:EOLhyphen"/>rers, except the Petitioners, will be ready to ſweare the contrary. That hee forceth all Communicants to come to the Rails, whereas the Doctor know<g ref="char:EOLhyphen"/>eth not of any yet that hath ever refuſed to come, till Sunday laſt, being the 27 of <hi>June</hi> 1641. That he inveigheth againſt thoſe which goe from their Pa<g ref="char:EOLhyphen"/>riſh Church, whereas hee never yet reproved or cauſed to be preſented one of his Pariſhioners for ſo doing. That his voice is ſo weake halfe the Church cannot heare him, which none but deafe people will ſay. Nor is it much more to the pur<g ref="char:EOLhyphen"/>poſe to alleage his keeping the Lords Table with<g ref="char:EOLhyphen"/>in the Screen and the Rayls, a thing that no autho<g ref="char:EOLhyphen"/>rity hath yet enjoyned the contrary, As for the Honorable Houſes of Parliament, for both which the Doctor daily prays, they need not be pointed out by theſe men what they have to doe. They ſee I doubt not, how much their juſtice is prejudi<g ref="char:EOLhyphen"/>ced by ſcattering ſuch Libels, expoſing men to obloquie before they are proved guilty. Let mee therefore deſire theſe Petitioners not to ſnatch the power of judicature out of their hands, and to con<g ref="char:EOLhyphen"/>demne and proſcribe before ſentence, Nor to fol<g ref="char:EOLhyphen"/>low with ſuch implacable bitterneſſe a harmleſſe Miniſter, of God, who prayes heartily that God
+<pb n="21" facs="tcp:111575:12"/>would give them a better minde, And endevours nothing more then theirs, and all his Pariſhes pro<g ref="char:EOLhyphen"/>ficiencie in godlineſſe, deſiring them for a farewell to think upon that ſentence of S. <hi>Paul,</hi> 1 <hi>Theſſ.</hi> 5.12, 13. <hi>Wee beſeech you, brethren, to know them that are ever you in the Lord, and admoniſh you. And to eſteem them very highly in love for their work ſake, and be at peace a<g ref="char:EOLhyphen"/>mong your ſelves.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
